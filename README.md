@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+🔭 I’m currently pursuing Web Development. <br>
+🌍 let background = ["Geographic Information Systems", "Business", Economics"] <br>
+🥊 let passions = ["Boxing", "Mapping", "Location Intelligence"] <br>
+🌱 let life = {day: "Transportation Analyst 🚌", night: "Coder 🤓"} <br>
+ 
 <!--
 **glowiep/glowiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
