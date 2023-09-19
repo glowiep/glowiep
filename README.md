@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 ------
 **⚙️ Languages Stats:**
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glowiep&count_private=true&theme=buefy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glowiep&count_private=true&theme=buefy&layout=donut">
  </p>
 
 
