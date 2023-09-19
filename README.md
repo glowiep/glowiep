@@ -68,14 +68,14 @@ Here are some ideas to get you started:
 ------
 **⚙️ Languages Stats:**
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glowiep&count_private=true&theme=onedark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glowiep&count_private=true&theme=buefy&layout=donut">
  </p>
 
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Github Stats:**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glowiep&hide=stars&show_icons=true&theme=onedark&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api?username=glowiep&hide=stars&show_icons=true&theme=buefy&line_height=32">
 </p>
 
 ---
