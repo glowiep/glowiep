@@ -2,7 +2,8 @@
 🔭 I’m currently pursuing Web Development. <br>
 🌍 let background = ["Geographic Information Systems", "Business", Economics"] <br>
 🌱 let life = {day: "Transportation Analyst 🚌", night: "Web Development 💻"} <br>
- 
+
+ Visit my portfolio here: https://glowiep.github.io/
 <!--
 **glowiep/glowiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
