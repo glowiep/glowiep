@@ -6,6 +6,7 @@
 ✨ Current passion project: <a href="https://github.com/glowiep/leaflet-map-template">Leaflet Map Template</a>
 
  Visit my portfolio here: https://glowiep.github.io/
+ <br>
  <img src="gloweip_QR.png" alt="drawing" width="150"/>
  
 <!--
