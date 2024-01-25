@@ -6,7 +6,8 @@
 ✨ Current passion project: <a href="https://github.com/glowiep/leaflet-map-template">Leaflet Map Template</a>
 
  Visit my portfolio here: https://glowiep.github.io/
- ![QR](gloweip_QR.png)
+ <img src="gloweip_QR.png" alt="drawing" width="150"/>
+ 
 <!--
 **glowiep/glowiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
