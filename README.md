@@ -7,6 +7,7 @@
 
  Visit my portfolio here: https://glowiep.github.io/
  <br>
+ <br>
  <img src="gloweip_QR.png" alt="drawing" width="150"/>
  
 <!--
