@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
   <div align="left">
    
-Connect with me:<br>
+<br>
 <a href="https://www.linkedin.com/in/glowiep" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <br>
 
