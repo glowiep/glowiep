@@ -6,6 +6,10 @@
 ✨ Current passion project: <a href="https://github.com/glowiep/leaflet-map-template">Leaflet Map Template</a>
 
  Visit my portfolio here: https://glowiep.github.io/
+    
+<br>
+<a href="https://www.linkedin.com/in/glowiep" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<br>
 <!--
 **glowiep/glowiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -84,10 +88,7 @@ Here are some ideas to get you started:
 <p align="left">
 
   <div align="left">
-   
-<br>
-<a href="https://www.linkedin.com/in/glowiep" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<br>
+
 
 [![HitCount](https://hits.dwyl.com/glowiep/glowiep.svg?style=flat-square)](http://hits.dwyl.com/glowiep/glowiep)
   
