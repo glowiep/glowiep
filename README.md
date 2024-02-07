@@ -1,11 +1,14 @@
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-🔭 Web Developer <br>
-🌍 const background = ["Geographic Information Systems", "Business", Economics"] <br>
-🌱 const life = ["Transportation Analyst 🚌", "Web Development 💻"] <br>
+🔭 Web Developer <br> <br>
+🌍 const background = [ <br>"Geographic Information Systems", "Business", Economics" <br>] <br>
+ <br>
+🌱 const life [ <br>"Transportation Analyst 🚌", "Web Development 💻" <br>] <br>
 
-✨ Current passion project: <a href="https://github.com/glowiep/leaflet-map-template">Leaflet Map Template</a>
+✨ Current passion project:  <br>
+<a href="https://github.com/glowiep/leaflet-map-template">Leaflet Map Template</a>
 
- Visit my portfolio here: https://glowiep.github.io/
+ Visit my portfolio here:  <br>
+ https://glowiep.github.io/
  <br>
  <br>
  
