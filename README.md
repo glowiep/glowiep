@@ -1,14 +1,13 @@
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-🔭 I’m currently pursuing Web Development. <br>
+🔭 Web Developer <br>
 🌍 const background = ["Geographic Information Systems", "Business", Economics"] <br>
-🌱 const life = {day: "Transportation Analyst 🚌", night: "Web Development 💻"} <br>
+🌱 const life = ["Transportation Analyst 🚌", "Web Development 💻"] <br>
 
 ✨ Current passion project: <a href="https://github.com/glowiep/leaflet-map-template">Leaflet Map Template</a>
 
  Visit my portfolio here: https://glowiep.github.io/
  <br>
  <br>
- <img src="gloweip_QR.png" alt="drawing" width="150"/>
  
 <!--
 **glowiep/glowiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
