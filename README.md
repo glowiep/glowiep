@@ -5,7 +5,7 @@
 🌱 const life [ <br>"Transportation Analyst 🚌", "Web Development 💻" <br>] <br>
 
 ✨ Current passion project:  <br>
-<a href="https://github.com/glowiep/leaflet-map-template">Leaflet Map Template</a>
+<a href="https://github.com/glowiep/quick-memo">Quick Memo React App Template</a>
 
  Visit my portfolio here:  <br>
  https://glowiep.github.io/
