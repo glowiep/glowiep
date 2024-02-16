@@ -5,7 +5,7 @@
 🌱 const life [ <br>"Transportation Analyst 🚌", "Web Development 💻" <br>] <br>
 
 ✨ Current passion project:  <br>
-<a href="https://github.com/glowiep/quick-memo">Quick Memo React App Template</a>
+<a href="https://github.com/glowiep/quick-memo">Quick Memo React App</a>
 
  Visit my portfolio here:  <br>
  https://glowiep.github.io/
