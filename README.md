@@ -5,7 +5,7 @@
 🌱 const life [ <br>"Transportation Analyst 🚌", "Web Development 💻" <br>] <br>
 
 ✨ Current passion project:  <br>
-<a href="https://github.com/glowiep/quick-memo">Quick Memo React App</a>
+<a href="https://github.com/glowiep/quick-memo">Quick Memo React App</a>: https://glowiep.github.io/quick-memo/
 
  Visit my portfolio here:  <br>
  https://glowiep.github.io/
@@ -96,7 +96,8 @@ Here are some ideas to get you started:
 <br> 
  -->
 
-[![HitCount](https://hits.dwyl.com/glowiep/glowiep.svg?style=flat-square)](http://hits.dwyl.com/glowiep/glowiep)
+<!-- [![HitCount](https://hits.dwyl.com/glowiep/glowiep.svg?style=flat-square)](http://hits.dwyl.com/glowiep/glowiep) -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fglowiep%2Fglowiep&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
   </div>
 </p> 
