@@ -1,16 +1,24 @@
-### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-🔭 Web Developer <br> <br>
-🌍 const background = [ <br>"Geographic Information Systems", "Business", Economics" <br>] <br>
- <br>
-🌱 const life [ <br>"Transportation Analyst 🚌", "Web Development 💻" <br>] <br>
+###  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Hello World ! I'm Gloria👋
+
+I'm someone who loves to learn and grow, always striving to improve. I take pride in writing clean code and maintaining organization, and I make sure my documentation is detailed enough to leave a lasting impression.
+
+<br>
+
+🤔 I’m currently learning: Ruby on Rails
 
 ✨ Current passion project:  <br>
 <a href="https://github.com/glowiep/quick-memo">Quick Memo React App</a>: https://glowiep.github.io/quick-memo/
 
  Visit my portfolio here:  <br>
  https://glowiep.github.io/
+ 
  <br>
  <br>
+ 
+🌍 const background = [ <br>"Geographic Information Systems", "Business", Economics" <br>] <br>
+ <br>
+🌱 const life [ <br>"Transportation Analyst 🚌", "Web Development 💻" <br>] <br>
+
  
 <!--
 **glowiep/glowiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,6 +38,22 @@ Here are some ideas to get you started:
   ***
 ### 🛠 &nbsp;Tech Stack
 
+**Frontend Development:** `React` `Material-UI` `jQuery` `Leaflet.js` `Bootstrap` `SASS`
+
+**Backend Development:** `Node.js` `Express.js` `AJAX` `EJS`
+ 
+**Version Control:** `Git` `GitHub`
+
+**Testing:** `Cypress` `Jest` `Mocha` `Chai`
+
+**Databases:** `PostgreSQL ` `Microsoft SQL Server`
+
+**Cloud Hosting Services:** `AWS` `IBM Cloud` `Railway`
+
+**Others:** `Visual Studio Code` 
+
+<!-- 
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
@@ -42,7 +66,6 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<!-- 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)\
