@@ -2,17 +2,15 @@
 
 I'm someone who loves to learn and grow, always striving to improve. I take pride in writing clean code and maintaining organization, and I make sure my documentation is detailed enough to leave a lasting impression.
 
-<br>
+ Visit my portfolio here: https://glowiep.github.io/
+
+## ✨ Current passion project:  <br>
+Quick Memo React App: https://glowiep.github.io/quick-memo/
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=glowiep\&repo=quick-memo\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 🤔 I’m currently learning: Ruby on Rails
 
-✨ Current passion project:  <br>
-<a href="https://github.com/glowiep/quick-memo">Quick Memo React App</a>: https://glowiep.github.io/quick-memo/
-
- Visit my portfolio here:  <br>
- https://glowiep.github.io/
- 
- <br>
  <br>
  
 🌍 const background = [ <br>"Geographic Information Systems", "Business", Economics" <br>] <br>
