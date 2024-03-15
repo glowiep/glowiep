@@ -5,9 +5,10 @@ I'm someone who loves to learn and grow, always striving to improve. I take prid
  Visit my portfolio here: https://glowiep.github.io/
 
 ## ✨ Current passion project:  <br>
-Quick Memo React App: https://glowiep.github.io/quick-memo/
+### Quick Memo React App
+Try it out here! https://glowiep.github.io/quick-memo/
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=glowiep\&repo=quick-memo\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+<a href="https://github.com/glowiep/quick-memo">![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=glowiep\&repo=quick-memo\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)</a>
 
 🤔 I’m currently learning: Ruby on Rails
 
