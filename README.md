@@ -4,7 +4,16 @@ I'm someone who loves to learn and grow, always striving to improve. I take prid
 
  Visit my portfolio here: https://glowiep.github.io/
 
-## ✨ Current passion project:  <br>
+## ⭐ Weekend Project Highlights:  <br>
+
+### Country API
+
+Exploring Prisma ORM integrated with TypeScript, built on top of Express.
+
+<a href="https://github.com/glowiep/country-api">![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=glowiep\&repo=country-api\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)</a>
+
+
+## ✨ Passion project in Progress:  <br>
 ### Quick Memo React App
 Try it out here! https://glowiep.github.io/quick-memo/
 
