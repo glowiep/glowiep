@@ -19,7 +19,9 @@ Try it out here! https://glowiep.github.io/quick-memo/
 
 <a href="https://github.com/glowiep/quick-memo">![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=glowiep\&repo=quick-memo\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)</a>
 
-🤔 This month I am learning: Ruby on Rails
+🤔 This month I am learning: 
+- Ruby on Rails
+- RSpec - Testing framework for Ruby
 
  <br>
  
@@ -48,11 +50,11 @@ Here are some ideas to get you started:
 
 **Frontend Development:** `React` `Material-UI` `jQuery` `Leaflet.js` `Bootstrap` `SASS`
 
-**Backend Development:** `Node.js` `Express.js` `AJAX` `EJS`
+**Backend Development:** `Node.js` `Express.js` `AJAX` `EJS` `Rails`
  
 **Version Control:** `Git` `GitHub`
 
-**Testing:** `Cypress` `Jest` `Mocha` `Chai`
+**Testing:** `Cypress` `Jest` `Mocha` `Chai` `RSpec`
 
 **Databases:** `PostgreSQL ` `Microsoft SQL Server`
 
