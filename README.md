@@ -1,6 +1,11 @@
 ###  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Hello World ! I'm Gloria👋
 
-I'm someone who loves to learn and grow, always striving to improve. I take pride in writing clean code and maintaining organization, and I make sure my documentation is detailed enough to leave a lasting impression.
+I'm someone who loves to learn and grow, always striving to improve. I take pride in writing <br>
+✅ clean
+✅ efficient 
+✅ organized code.
+
+And I make sure my documentation is detailed enough to leave a lasting impression.
 
  Visit my portfolio here: https://glowiep.github.io/
 
