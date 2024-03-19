@@ -13,14 +13,16 @@ And I make sure my documentation is detailed enough to leave a lasting impressio
 
 ### Country API
 
-Exploring Prisma ORM integrated with TypeScript, built on top of Express.
-
+Exploring Prisma ORM integrated with TypeScript, built on top of Express. <br> <br>
+💬 Read my Blog Article about it <a href='https://dev.to/glowiep/prisma-a-modern-orm-2knh'>here</a>. 
+<br>
+<br>
 <a href="https://github.com/glowiep/country-api">![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=glowiep\&repo=country-api\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)</a>
 
 
 ## ✨ Passion project in Progress:  <br>
 ### Quick Memo React App
-Try it out here! https://glowiep.github.io/quick-memo/
+Try it out <a href='https://glowiep.github.io/quick-memo/'>in your browser</a>!
 
 <a href="https://github.com/glowiep/quick-memo">![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=glowiep\&repo=quick-memo\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)</a>
 
