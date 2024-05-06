@@ -7,7 +7,7 @@ I'm someone who loves to learn and grow, always striving to improve. I take prid
 
 And I make sure my documentation is detailed enough to leave a lasting impression.
 
-Visit my portfolio here: https://glorialim.me/portfolio
+Visit my portfolio here: https://glorialim.me
 
  <br>
  
