@@ -11,11 +11,6 @@ Visit my portfolio here: https://glorialim.me/portfolio
 
  <br>
  
-🌍 const background = [ <br>"Geographic Information Systems", "Business", Economics" <br>] <br>
- <br>
-🌱 const life [ <br>"Transportation Analyst 🚌", "Web Development 💻" <br>] <br>
-
- 
 <!--
 **glowiep/glowiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
