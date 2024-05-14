@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   ***
 ### 🛠 &nbsp;Tech Stack
 
-**Frontend Development:** `React` `Tailwind CSS` `Chakra UI` `Material-UI` `Typescript` `Bootstrap` `jQuery` `Leaflet.js` `SASS` 
+**Frontend Development:** `React` `Typescript` `Tailwind CSS` `Chakra UI` `daisyUI` `Material-UI` `Bootstrap` `jQuery` `SASS` 
 
 **Backend Development:** `Node.js` `Express.js` `AJAX` `EJS` `Rails`
  
