@@ -7,7 +7,8 @@ I'm someone who loves to learn and grow, always striving to improve. I take prid
 
 And I make sure my documentation is detailed enough to leave a lasting impression.
 
-Visit my portfolio here: https://glorialim.me/portfolio
+Visit my portfolio here: <br />
+https://glorialim.me/portfolio
 
 <!--
 **glowiep/glowiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
