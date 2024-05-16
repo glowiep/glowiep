@@ -10,6 +10,8 @@ And I make sure my documentation is detailed enough to leave a lasting impressio
 Visit my portfolio here: <br />
 https://glorialim.me/portfolio
 
+
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=The%20art%20of%20programming%20is%20the%20art%20of%20organizing%20complexity.&author=Edsger%20W.%20Dijkstra&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 <!--
 **glowiep/glowiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
