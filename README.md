@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 **Cloud Hosting Services:** `AWS` `IBM Cloud` `Railway`
 
-**Others:** `Visual Studio Code` 
+**Others:** `Visual Studio Code` `Google Analytics` `FlowiseAI` `Figma` 
 
 <!-- 
 
