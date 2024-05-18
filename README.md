@@ -30,19 +30,26 @@ Here are some ideas to get you started:
   ***
 ### 🛠 &nbsp;Tech Stack
 
-**Frontend Development:** `React` `Typescript` `Tailwind CSS` `Chakra UI` `daisyUI` `Material-UI` `Bootstrap` `jQuery` `SASS` 
+**Frontend Development:** <br>
+`React` `Typescript` `Tailwind CSS` `Chakra UI` `daisyUI` `Material-UI` `Bootstrap` `jQuery` `SASS` 
 
-**Backend Development:** `Node.js` `Express.js` `AJAX` `EJS` `Rails`
+**Backend Development:** <br>
+ `Node.js` `Express.js` `AJAX` `EJS` `Rails`
  
-**Version Control:** `Git` `GitHub`
+**Version Control:** <br>
+ `Git` `GitHub`
 
-**Testing:** `Cypress` `Jest` `Mocha` `Chai` `RSpec`
+**Testing:** <br>
+ `Cypress` `Jest` `Mocha` `Chai` `RSpec`
 
-**Databases:** `PostgreSQL ` `Microsoft SQL Server`
+**Databases:** <br>
+ `PostgreSQL ` `Microsoft SQL Server`
 
-**Cloud Hosting Services:** `AWS` `IBM Cloud` `Railway`
+**Cloud Hosting Services:** <br>
+ `AWS` `IBM Cloud` `Railway`
 
-**Others:** `Visual Studio Code` `Google Analytics` `FlowiseAI` `Figma` 
+**Others:** <br>
+ `Visual Studio Code` `Google Analytics` `FlowiseAI` `Figma` 
 
 <!-- 
 
