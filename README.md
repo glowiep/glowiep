@@ -36,18 +36,18 @@ Here are some ideas to get you started:
 **Backend Development:** <br>
  `Node.js` `Express.js` `AJAX` `EJS` `Rails`
  
+ **Databases:** <br>
+ `PostgreSQL ` `Microsoft SQL Server`
+
 **Version Control:** <br>
  `Git` `GitHub`
 
 **Testing:** <br>
  `Cypress` `Jest` `Mocha` `Chai` `RSpec`
 
-**Databases:** <br>
- `PostgreSQL ` `Microsoft SQL Server`
-
 **Cloud Hosting Services:** <br>
  `AWS` `IBM Cloud` `Railway`
-
+ 
 **Others:** <br>
  `Visual Studio Code` `Google Analytics` `FlowiseAI` `Figma` 
 
