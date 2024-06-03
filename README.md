@@ -8,7 +8,7 @@ I'm someone who loves to learn and grow, always striving to improve. I take prid
 ✅ efficient 
 ✅ organized code.
 
-And I make sure my documentation is detailed enough to leave a lasting impression.
+I like to make sure that my documentation is detailed enough to leave a lasting impression.
 
 Visit my portfolio here: <br />
 https://glorialim.me/portfolio
