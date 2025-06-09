@@ -11,7 +11,7 @@ I'm someone who loves to learn and grow, always striving to improve. I take prid
 I like to make sure that my documentation is detailed enough to leave a lasting impression.
 
 Visit my portfolio here: <br />
-https://glorialim.me/portfolio
+https://glorialim.com/portfolio
 
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=The%20art%20of%20programming%20is%20the%20art%20of%20organizing%20complexity.&author=Edsger%20W.%20Dijkstra&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
