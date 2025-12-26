@@ -1,19 +1,21 @@
 
 <div align="center">
  
-###  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Hello World ! I'm Gloria👋
+###  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  hello world! Gloria here👋
 
-I'm someone who loves to learn and grow, always striving to improve. I take pride in writing <br>
-✅ clean
-✅ efficient 
-✅ organized code.
+I lead an engineering team at a fast growing startup 🚀 <br/> 
+I take pride in understanding complex systems and coming up with actionable solutions in the midst of chaos.
 
-I like to make sure that my documentation is detailed enough to leave a lasting impression.
-
-Visit my portfolio here: <br />
+My digital garden 🌱 <br />
 https://glorialim.com/portfolio
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=The%20art%20of%20programming%20is%20the%20art%20of%20organizing%20complexity.&author=Edsger%20W.%20Dijkstra&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=The%20art%20of%20programming%20is%20the%20art%20of%20organizing%20complexity.&author=Edsger%20W.%20Dijkstra&border=true)]([https://github.com/piyushsuthar/github-readme-quotes](https://github.com/piyushsuthar/github-readme-quotes))
+
+![cat](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3Z2MDV2cTRqbnFzcXNqZmhkcjhkeGh5M3pqODBvdDk4ZXg0Z2p0NyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif)
+
+<!-- 
+![cat](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGd2ejJ0aTZpOG0ybHNoZzM0bHBtZXYwYmFrMm95cWl3M29tYjAxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif) 
+-->
 
  </div>
 <!--
@@ -100,23 +102,6 @@ Here are some ideas to get you started:
   </p>
  -->
 ------
-**⚙️ Languages Stats:**
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glowiep&count_private=true&theme=buefy&layout=donut">
- </p>
-
-
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Github Stats:**
-
-<p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=glowiep&hide=stars&show_icons=true&theme=buefy&line_height=32"> -->
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=glowiep&theme=swift" alt="GitHub Streak" /></a>
-</p>
-
----
-<p align="left">
-
-  <div align="left">
 <!-- 
 <br>
  <a href="https://www.linkedin.com/in/glowiep" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -124,7 +109,6 @@ Here are some ideas to get you started:
  -->
 
 <!-- [![HitCount](https://hits.dwyl.com/glowiep/glowiep.svg?style=flat-square)](http://hits.dwyl.com/glowiep/glowiep) -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fglowiep%2Fglowiep&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
   </div>
 </p> 
