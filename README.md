@@ -6,12 +6,15 @@
 I lead an engineering team at a fast growing startup 🚀 <br/> 
 I take pride in understanding complex systems and coming up with actionable solutions in the midst of chaos.
 
+![](./assets/glowiep-space-shooter.gif)
+
 My digital garden 🌱 <br />
 https://glorialim.com/portfolio
 
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=The%20art%20of%20programming%20is%20the%20art%20of%20organizing%20complexity.&author=Edsger%20W.%20Dijkstra&border=true)]([https://github.com/piyushsuthar/github-readme-quotes](https://github.com/piyushsuthar/github-readme-quotes))
 
-![cat](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3Z2MDV2cTRqbnFzcXNqZmhkcjhkeGh5M3pqODBvdDk4ZXg0Z2p0NyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif)
+
+<!-- ![cat](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3Z2MDV2cTRqbnFzcXNqZmhkcjhkeGh5M3pqODBvdDk4ZXg0Z2p0NyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif) -->
 
 <!-- 
 ![cat](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGd2ejJ0aTZpOG0ybHNoZzM0bHBtZXYwYmFrMm95cWl3M29tYjAxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif) 
